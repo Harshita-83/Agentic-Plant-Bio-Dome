@@ -1,4 +1,3 @@
-```javascript
 import axios from 'axios'
 
 const BASE = 'https://agentic-plant-bio-dome.onrender.com/api'
