@@ -43,4 +43,3 @@ export const api = {
 
 // Render uses HTTPS, so WebSocket must use WSS
 export const WS_URL = 'wss://agentic-plant-bio-dome.onrender.com/ws'
-```
